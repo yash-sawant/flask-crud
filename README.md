@@ -2,6 +2,11 @@
 
 This is a simple example of a Flask web application that performs CRUD (Create, Read, Update, Delete) operations on a SQLite database. The application allows you to add, edit, delete and view student records in a table. 
 
+[![Check it out live][run_img]][run_link]
+
+[run_img]: https://storage.googleapis.com/cloudrun/button.svg
+[run_link]: https://flask-crud-pssahwnxxa-pd.a.run.app
+
 ## Prerequisites
 
 To run this application, you'll need:
